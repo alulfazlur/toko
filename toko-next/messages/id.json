@@ -1,0 +1,25 @@
+{
+    "Header": {
+        "home": "Beranda",
+        "cart": "Keranjang",
+        "language": "Bahasa"
+    },
+    "Home": {
+        "title": "Produk terbaru"
+    },
+    "Product": {
+        "chooseVariant": "Pilih varian",
+        "addToCart": "Tambah ke keranjang",
+        "adding": "Menambahkan..."
+    },
+    "Cart": {
+        "title": "Keranjang",
+        "empty": "Keranjang masih kosong.",
+        "remove": "Hapus",
+        "total": "Total"
+    },
+    "NotFound": {
+        "title": "Halaman tidak ditemukan",
+        "backHome": "Kembali ke beranda"
+    }
+}

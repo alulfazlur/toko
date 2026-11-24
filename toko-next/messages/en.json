@@ -1,0 +1,25 @@
+{
+    "Header": {
+        "home": "Home",
+        "cart": "Cart",
+        "language": "Language"
+    },
+    "Home": {
+        "title": "Latest products"
+    },
+    "Product": {
+        "chooseVariant": "Choose a variant",
+        "addToCart": "Add to cart",
+        "adding": "Adding..."
+    },
+    "Cart": {
+        "title": "Cart",
+        "empty": "Your cart is empty.",
+        "remove": "Remove",
+        "total": "Total"
+    },
+    "NotFound": {
+        "title": "Page not found",
+        "backHome": "Back to home"
+    }
+}
