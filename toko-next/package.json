@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "codegen": "graphql-codegen --require dotenv/config --config codegen.ts dotenv_config_path=.env.local"
+    "codegen": "graphql-codegen --config codegen.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",
@@ -31,7 +31,6 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "^1.0.0",
-    "dotenv": "^18.0.10",
     "eslint": "^9",
     "eslint-config-next": "16.4.6",
     "tailwindcss": "4.3.3",
